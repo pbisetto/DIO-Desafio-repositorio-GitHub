@@ -11,3 +11,5 @@ Este repositório irá ser composto, gradualmente, com os exercícios e desafios
 - [Sintaxe básica markdown](https://www.markdownguide.org/basic-syntax/)
 - [Download Git](https://git-scm.com/downloads)
 - [Bootcamp GFT Start Java](https://web.dio.me/track/gft-start-4-java?tab=path)
+- [Curl Windowns](https://curl.se/windows/)
+- [Documentação instalação Java Version Manager - Jabba](https://github.com/shyiko/jabba)
