@@ -13,3 +13,4 @@ Este repositório irá ser composto, gradualmente, com os exercícios e desafios
 - [Bootcamp GFT Start Java](https://web.dio.me/track/gft-start-4-java?tab=path)
 - [Curl Windows](https://curl.se/windows/)
 - [Documentação instalação Java Version Manager - Jabba](https://github.com/shyiko/jabba)
+- [Download IntellJ IDEA](https://www.jetbrains.com/pt-br/idea/download/#section=windows)
