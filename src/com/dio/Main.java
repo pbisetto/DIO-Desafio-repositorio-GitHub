@@ -32,5 +32,4 @@ public class Main {
         Emprestimo.calcular(5000, 5);
 
     }
-
 }
