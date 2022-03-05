@@ -20,7 +20,7 @@ public class Main {
             else if((x2-x1)==-(y2-y1) || -(x2-x1)==-(y2-y1) || -(x2-x1)==(y2-y1) || (x2-x1)==(y2-y1))
                 System.out.println("1");	//mesma diagonal
             else
-                System.out.println("2");	//o resto...
+                System.out.println("2");
         }
         sc.close();
     }
