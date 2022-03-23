@@ -1,4 +1,4 @@
-# :desktop_computer: Desafio HitHub da DIO: Meu primeiro repositório! :desktop_computer:
+# :desktop_computer: Desafio GitHub da DIO: Meu primeiro repositório! :desktop_computer:
 
 _Olá!_ 
 
