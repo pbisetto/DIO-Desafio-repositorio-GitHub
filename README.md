@@ -2,7 +2,7 @@
 
 _Olá!_ 
 
-Este repositório irá ser composto, gradualmente, com os exercícios e desafios oriundos do **Bootcamp GFT Start #4 Java**.
+Este repositório irá ser composto, gradualmente, com os exercícios e desafios oriundos do **Bootcamp GFT Start #5 Java**.
 
 <u>Bons trabalhos!!</u> :smile:
 
